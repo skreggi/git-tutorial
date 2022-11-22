@@ -3,3 +3,6 @@ git init
 
 Что-бы понять в какой папке на данный момент пишем команду 
 git status
+
+Для добавления файла в staging area команда
+git add<file_name>
