@@ -8,3 +8,6 @@ git status
 git add<file_name>
 
 //Comment from another development
+
+Для того что-бы сделать новый бранч с того в котором мы находимся нужно
+git cheackout -b<new_branch_name>
